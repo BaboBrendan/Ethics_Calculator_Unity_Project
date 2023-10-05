@@ -836,6 +836,7 @@ This method subtracts points from the school’s that the user doesn’t pick th
 
 
         //You do this because you want everyone to be happy.
+        //Everyone can be happy at the same the because we are Utilitarian so we want everyone can be happy.
          utilitarianChoices[5] ="You buy food and share it with people that want it.";
         //---------------------------------------------------------------------------------------------------------------------------------------
 
