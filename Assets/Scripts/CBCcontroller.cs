@@ -1980,12 +1980,12 @@ public class CBCcontroller : MonoBehaviour
         kantianChoicesChinese[4] = "你拉了一個人，因為他差點摔倒了";
 
         //You do this because you don’t want to keep anyone from sitting with who they want. Weight5
-        kantianChoices[5] = "You let others choose seats before yourself.";
-        kantianChoicesChinese[5] = "您讓其他人先選擇座位。";
+        kantianChoices[5] = "I finish my work -which I enjoy- before the deadline I set for myself.";
+        kantianChoicesChinese[5] = "我在為自己設定的截止日期之前完成了我喜歡的工作。";
 
         //It promotes freedom of choice
-        kantianChoices[6] = "I let others choose seats before myself";
-        kantianChoicesChinese[6] = "我讓別人先選座位";
+        kantianChoices[6] = "I sort garbage correctly";
+        kantianChoicesChinese[6] = "我正確分類垃圾。";
         //I do this because it is the right thing to do
         kantianChoices[7] = "I sort garbage correctly";
         kantianChoicesChinese[7] = "我準確分類垃圾";
